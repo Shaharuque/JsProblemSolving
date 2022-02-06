@@ -1,0 +1,2 @@
+//String:
+->The index of the last character is string length - 1
